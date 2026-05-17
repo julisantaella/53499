@@ -1,0 +1,4 @@
+variable x = "test";
+imprimir();
+
+(FALTA EL VALOR IMPRIMIR)

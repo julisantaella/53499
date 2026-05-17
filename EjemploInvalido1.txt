@@ -1,0 +1,4 @@
+variable saludo = "hola mundo"
+imprimir(saludo);
+
+//(FALTA EL ";")

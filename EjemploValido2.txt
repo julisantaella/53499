@@ -1,0 +1,8 @@
+funcion saludar(nombre) {
+    variable resultado = mayusculas(nombre);
+    imprimir(resultado);
+    devolver resultado;
+}
+variable texto = "hola mundo";
+imprimir(texto);
+saludar(texto);
