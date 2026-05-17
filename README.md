@@ -43,6 +43,7 @@ Para probar con los ejemplos, copiar el contenido al `input.txt` y ejecutar `npm
 | `ejemplo_invalido2.txt` | Imprimir sin argumentos | Error de sintaxis |
 
 ## Estructura del proyecto
+```
 ├── Lenguaje.g4                  # Gramática del lenguaje
 ├── index.js                     # Programa principal
 ├── CustomLenguajeVisitor.js     # Intérprete (visitor)
@@ -52,6 +53,7 @@ Para probar con los ejemplos, copiar el contenido al `input.txt` y ejecutar `npm
 ├── ejemplo_invalido1.txt        # Ejemplo inválido 1
 ├── ejemplo_invalido2.txt        # Ejemplo inválido 2
 └── input.txt                    # Archivo de entrada
+```
 
 ## Gramática del lenguaje
 El lenguaje soporta:
